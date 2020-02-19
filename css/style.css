@@ -9,3 +9,46 @@ header{
   height: 419px;
   background-image: url(../img/header.jpg);
 }
+
+.Intestazione{
+
+}
+
+.logo{
+  float: left;
+
+}
+
+nav{
+  float: left;
+
+}
+
+nav ul li{
+  display: inline-block;
+}
+
+.StrumentiUtente{
+  float: right;
+}
+
+.DiventaTutor{
+  display: inline-block
+
+}
+
+.Login{
+  display: inline-block
+
+}
+
+.StrutturaUnPiano{
+  display: inline-block
+
+}
+
+.MenuBurger{
+  display: inline-block
+
+
+}
