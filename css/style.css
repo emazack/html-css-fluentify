@@ -2,4 +2,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+header{
+  height: 419px;
+  background-image: url(../img/header.jpg);
 }
